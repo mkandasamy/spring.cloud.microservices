@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: opm-web-customer-recipient
+  cloud:
+    config:
+      uri: ${SPRING_CONFIG_URI}

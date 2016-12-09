@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: opm-web-inventory-item
+  cloud:
+    config:
+      uri: ${SPRING_CONFIG_URI}

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: opm-web-order-receipt
+  cloud:
+    config:
+      uri: ${SPRING_CONFIG_URI}
+
